@@ -8,8 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "prepare": "husky install",
-    "prettier": "prettier -w .",
-    "prettier:check": "prettier -c ."
+    "prettier": "prettier -w ",
+    "prettier:check": "prettier -c "
   },
   "dependencies": {
     "normalize.css": "^8.0.1"
